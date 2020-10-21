@@ -4,17 +4,17 @@ From beginner to expert can use TensorFlow to learn and make project about machi
 
 Why TensorFlow?
 
-1. TensorFlow is a great machine learning platform
+1. TensorFlow is a great machine learning platform <br>
 TensorFlow has been created by the end of 2015 and developed by senior developer to reach a bigger audience for studying AI and machine learning.
-2. Simplify interaction
+2. Simplify interaction <br>
 Coding in TensorFlow is like interacting with another programmer or developer, so it is easier and more efficient to write code and debugging.
-3. Multi language
+3. Multi language <br>
 TensorFlow supports many language such as python, R, swift, javascript
-4. Easier to learn
+4. Easier to learn <br>
 We don't need to start the code from scratch because we can learn from other's code.
-5. Easy model building
+5. Easy model building <br>
 Build and train ML models easily using intuitive high-level APIs like Keras with eager execution, which makes for immediate model iteration and easy debugging.
-6. Powerful experimentation for research
+6. Powerful experimentation for research <br>
 A simple and flexible architecture to take new ideas from concept to code, to state-of-the-art models, and to publication faster.
-7. Large community
+7. Large community <br>
 A diverse community of developers, enterprises and researchers are using ML to solve challenging, real-world problems. Learn how their research and applications are being powered by TensorFlow
